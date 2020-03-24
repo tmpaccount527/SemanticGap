@@ -13,7 +13,7 @@ using review data and needs data build a textGCN and do classification.
 	train.py 
 		comment original evaluation part(which only consider top1), use new evaluation metrics(top-5 evalutation)
 	
-3. for running instructions, follow github: https://github.com/yao8839836/text_gcn
+3.  requirement: Python 2.7 or 3.6; Tensorflow >= 1.4.0
 
 new dataset name is 'laptop_cpu' ,'laptop_hd','laptop_gpu','laptop_screen','laptop_ram'
 
