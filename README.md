@@ -1,5 +1,5 @@
-# cr_TextGCN
-using review data and needs data build a textGCN and do classification.
+# This project contains the code and data for a manuscript submitted to IEEE Transactions on Industiral Informatics. We build a GCN to close the semantic gap beween customers and engineering teams in smart manufacturing.
+
 
 1. Some explanation :
 	use mask to indicate samples used in the train/val/test set , set the corresponding index to 1
