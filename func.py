@@ -2,7 +2,7 @@
 """
 Created on Thu Aug 15 15:05:52 2019
 
-@author: Li Xiang
+@author: L. X.
 """
 
 import numpy as np
