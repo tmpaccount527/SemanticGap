@@ -1,4 +1,4 @@
-# This project contains the code and data of a manuscript submitted to IJPR. We build a GCN to close the semantic gap beween customers and engineering teams in smart manufacturing.
+# We build a GCN to close the semantic gap beween customers and engineering teams in smart manufacturing.
 
 
 1. Some explanation :
